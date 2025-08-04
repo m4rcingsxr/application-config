@@ -5,7 +5,7 @@ build:
 loans:
   message: "Welcome to loans microservice default API"
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
+    name: "Reine Seweryn - Product Owner"
     email: "{cipher}1e73f23115dd48c8c1fa276fa713dec98c1002ab0ddd8079959efe0bc139e629"
   onCallSupport:
     - (453) 392-4829
