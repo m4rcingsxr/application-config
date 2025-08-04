@@ -6,7 +6,7 @@ loans:
   message: "Welcome to loans microservice QA API"
   contactDetails:
     name: "Smitha Ray - QA Lead"
-    email: "smitha@eazybank.com"
+    email: "{cipher}1e73f23115dd48c8c1fa276fa713dec98c1002ab0ddd8079959efe0bc139e629"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371

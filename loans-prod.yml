@@ -6,7 +6,7 @@ loans:
   message: "Welcome to loans microservice prod API"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@eazybank.com"
+    email: "{cipher}1e73f23115dd48c8c1fa276fa713dec98c1002ab0ddd8079959efe0bc139e629"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384

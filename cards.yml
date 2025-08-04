@@ -5,7 +5,7 @@ cards:
   message: "Welcome to cards microservice default API"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@eazybank.com"
+    email: "{cipher}f2f8f3db9a25481f9e16a8aa95533403f7e5db08eec6aa9830f357c0a63cdd4d7ea520caa58779b2d682b21c7922183f"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384

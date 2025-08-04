@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to accounts microservice QA API"
   contactDetails:
     name: "Smitha Ray - QA Lead"
-    email: "smitha@eazybank.com"
+    email: "{cipher}e65c13136274b8358c9be80554258b97e4fb298b2e6db29900a3cbd76cd4d6a040de064d0c9fe59cf4fd35362e015d45"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
