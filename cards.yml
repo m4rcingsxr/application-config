@@ -2,7 +2,7 @@ build:
   version: "0.0.0"
 
 cards:
-  message: "Welcome to cards microservice default API CARDS"
+  message: "Welcome to cards microservice default API CARDS 2"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}f2f8f3db9a25481f9e16a8aa95533403f7e5db08eec6aa9830f357c0a63cdd4d7ea520caa58779b2d682b21c7922183f"
