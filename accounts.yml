@@ -1,11 +1,11 @@
 build:
-  version: "0.0.0"
+  version: "3.0"
 
 accounts:
-  message: "Welcome to accounts microservice default API DEEEEEFAULT"
+  message: "Welcome to EazyBank accounts related docker APIs "
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
-    email: "{cipher}e65c13136274b8358c9be80554258b97e4fb298b2e6db29900a3cbd76cd4d6a040de064d0c9fe59cf4fd35362e015d45"
+    name: "John Doe - Developer"
+    email: "john@eazybank.com"
   onCallSupport:
-    - (453) 392-4829
-    - (236) 203-0384
+    - (555) 555-1234
+    - (555) 523-1345

@@ -1,11 +1,11 @@
 build:
-  version: "0.0.0"
+  version: "1.0"
 
 accounts:
-  message: "Welcome to accounts microservice prod API 444"
+  message: "Hey, welcome to EazyBank accounts related webhook APIs"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "{cipher}e65c13136274b8358c9be80554258b97e4fb298b2e6db29900a3cbd76cd4d6a040de064d0c9fe59cf4fd35362e015d45"
+    email: "{cipher}f83ac5a34ba5f4657ae8e863c063c1b69efb4d23d0c431eb134f8d1b3ed0823dee0a4b627d091455b4c6600353a3682c"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
